@@ -18,4 +18,28 @@ nav{
     margin: 60px; 
     }
 
+.vacation{ 
+        width: 30%;
+     }
+     
+.vacation_image{
+        width: 100%;
+     }
+
+.vacation_container{
+        display: flex;
+        /* flex-wrap: wrap; */
+        /* justify-content: space-evenly; */
+        justify-content: space-between;
+    }
+.vacation_image{border: 2px solid white; padding: 2%;
+
+    }
+
+.header{background-image: url(../images/ABSimage2.jpg);
+
+    }
+
+
+
 
